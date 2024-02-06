@@ -1,0 +1,17 @@
+# Ignore all .txt files
+#*.txt
+
+# But do not ignore the readme.txt
+!readme.txt
+
+# Ignore all .txt files in folders with the name generated
+#generated/*.txt
+
+# Include also sub diectories
+#generated/**/*.txt
+
+# Ignore all filed in folders with the name generated
+#generated
+
+# Ignore CompiledOutput.txt
+CompiledOutput.txt
