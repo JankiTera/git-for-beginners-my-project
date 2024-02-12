@@ -1,5 +1,4 @@
 Welcome to my Project!
 
-Author: Tera Janki Lastname
-
+Author: Tera Janki Middlename Lastname
 Twitter @jankitera
